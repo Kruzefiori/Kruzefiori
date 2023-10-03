@@ -14,11 +14,11 @@
 
 ## Projetos Destacados
 
-- 🌟 TFG-FLOW https://github.com/Luiss1569/TFG-Flow: Trabalho em grupo onde estamos desenvolvendo um sistema para facilitar o cadastro, acompanhamento e finalização do processo de TFG (trabalho final de graduação) da unifei.
+- 🌟 [TFG-FLOW](https://github.com/Luiss1569/TFG-Flow): Trabalho em grupo onde estamos desenvolvendo um sistema para facilitar o cadastro, acompanhamento e finalização do processo de TFG (trabalho final de graduação) da unifei.
 
 ## Como me Encontrar
 
-- 💼 [LinkedIn] https://www.linkedin.com/in/victor-kruze-fiori-967b0a1ab/
+- 💼 [LinkedIn](https://www.linkedin.com/in/victor-kruze-fiori-967b0a1ab/)
 
 ## Estatísticas GitHub
 
