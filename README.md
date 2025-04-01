@@ -9,12 +9,13 @@
 
 ## Habilidades e Tecnologias
 
-- 💻 Experiência em: Netsuite, SuiteScript, Javascript.
-- 🛠️ Atualmente estou explorando: React, Node, Typescript
+- 💻 Experiência em: Netsuite, SuiteScript, Javascript , typescript, Prisma, Node.
+- 🛠️ Atualmente estou explorando: React, AWS
 
 ## Projetos Destacados
 
 - 🌟 [TFG-FLOW](https://github.com/Luiss1569/TFG-Flow): Trabalho em grupo onde estamos desenvolvendo um sistema para facilitar o cadastro, acompanhamento e finalização do processo de TFG (trabalho final de graduação) da unifei.
+- 🌟 [Metaheurística para recomendação de matrícula](https://github.com/Kruzefiori/matricula_metaheuristica): Trabalho em progesso para criar um sistema de recomendação de matrícula com base no histórico acadêmico, utilizando de metaheurísticas como Grasp e Bio-inspiradas para a resolução do problema
 
 ## Como me Encontrar
 
