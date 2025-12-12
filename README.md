@@ -4,7 +4,7 @@
 
 - 👩‍💻 Olá! Sou Victor Kruze Fiori, uma entusiasta de tecnologia com paixão por programação e inovação.
 - 🎓 Estou formando em Sistemas de Informação pela Universidade Federal de Itajubá.
-- 💼 Atualmente trabalho como Desenvolvedor na Encora
+- 💼 Atualmente trabalho como Desenvolvedor na Pebl
 - 🌱 Estou sempre aprendendo e buscando aprimorar minhas habilidades em Desenvolvimento Web, API e Netsuite.
 
 ## Habilidades e Tecnologias
